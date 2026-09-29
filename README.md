@@ -13,7 +13,7 @@ BSc (Hons) Software Engineering @ Bournemouth University *(Graduating June 2027)
 I build full-stack software across MySQL, C++, Vue.js and Python. After a year-long industrial placement at **Micro Nav (an Indra company)**, where I shipped features for software used by instructors to manage and review air traffic control (ATC) training sessions, I care most about maintainable code, accessible interfaces and tools that support data-driven decisions.
 
 - 🎓 **Education:** BSc (Hons) Software Engineering at Bournemouth University *(Sept 2023 – June 2027)*
-- 🎯 **Seeking:** [NEEDED FROM YOU]
+- 🎯 **Seeking:**  Full-time Graduate / Junior Software Engineer
 
 ---
 
